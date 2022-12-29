@@ -13,7 +13,7 @@ first you could configure credentials use under code
 aws configurek
 ```
 
-however not installing aws cli, you can installing awscli:
+however if you not installed aws cli, you can installing awscli like this:
 
 - **Linux**
     
