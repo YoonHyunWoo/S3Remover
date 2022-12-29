@@ -10,7 +10,7 @@ you can running S3Remover will look like
 first you could configure credentials use under code
 
 ```bash
-aws configurek
+aws configure
 ```
 
 however if you not installed aws cli, you can installing awscli like this:
